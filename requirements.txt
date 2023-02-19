@@ -1,0 +1,5 @@
+-c constraints.txt
+sphinx-design
+furo
+sphinxext-opengraph
+sphinx-copybutton
