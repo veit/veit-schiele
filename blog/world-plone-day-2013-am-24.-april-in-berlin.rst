@@ -64,15 +64,10 @@ XMPP-Integration in Plone
  `Twitter Bootstrap <http://twitter.github.com/bootstrap/>`_ ist ein Frontend-
  Framework für effizient und einfach zu bedienende Web-Anwendungen.
 
- Mehr: `Diazo-Bootstrap-Framework veröffentlicht <http://www.veit-schiele.de/news/diazo-bootstrap-framework-veroeffentlicht>`_
-
 Datenschutzkonformes Web-Hosting
  Wir haben in unserem Hosting-Angebot in letzter Zeit einige Maßnahmen
  getroffen, sodass wir nun den Erfordrnissen des deutschen
  `Bundesdatenschutzgesetz <http://de.wikipedia.org/wiki/Bundesdatenschutzgesetz>`_ (BDSG) noch besser
  genügen.
-
- Mehr: `Verbesserte Umsetzung des Bundesdatenschutzgesetz in unserem Hosting-Angebot
- <http://www.veit-schiele.de/news/verbesserte-umsetzung-des-bundesdatenschutzgesetz-in-unserem-hosting-angebot>`_
 
 Schließlich wurden beim Buffet die Diskussionen bis in die Abendstunden weitergeführt.

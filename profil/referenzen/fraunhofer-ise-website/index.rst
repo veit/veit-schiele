@@ -15,7 +15,7 @@ Realisation
 Umsetzung des Styleguides mit folgenden funktionalen Erweiterungen:
 
 - Ansprechpartner auf Basis von `vs.org
-  <http://www.veit-schiele.de/produkte/vs.org>`_, die direkt über ein Formular
+  <https://github.com/veit/vs.org>`_, die direkt über ein Formular
   kontaktiert werden können.
 
   .. figure:: kontakt.png
@@ -23,11 +23,11 @@ Umsetzung des Styleguides mit folgenden funktionalen Erweiterungen:
 
 - Contentnavigation auf Basis von
   `vs.contentnavigation
-  <http://www.veit-schiele.de/produkte/vs.contentnavigation>`_.
+  <https://github.com/veit/vs.contentnavigation>`_.
 
 - Große Tabellen und Bilder lassen sich in einem Overlay öffnen. Hierfür wurde
   `vs.contentpopup
-  <http://www.veit-schiele.de/produkte/vs.contentpopup/vs.contentpopup>`_
+  <https://github.com/veit/vs.contentpopup>`_
   entwickelt.
 - Reiternavigation mit Referenzen auf Artikel
 
@@ -38,4 +38,4 @@ Umsetzung des Styleguides mit folgenden funktionalen Erweiterungen:
   Schlagworten dieses Bereichs angezeigt werden können.
 - Social Bookmarks. Hierfür erstellten wir das Zusatzprodukt
   `vs.jquerybookmarks
-  <http://www.veit-schiele.de/produkte/vs.jquerybookmarks>`_.
+  <https://github.com/veit/vs.jquerybookmarks>`_.

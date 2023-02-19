@@ -91,8 +91,6 @@ Wie sieht unser Design-Prozess nun im Einzelnen aus:
    Browsern wird deutlich vereinfacht.
 
 .. seealso::
-   * `Living Style Guides
-     <http://www.veit-schiele.de/dienstleistungen/schulungen/css/living-style-guides>`_
    * `Fiona Chan: How to create a living style guide
      <https://speakerdeck.com/mobywhale/how-to-create-a-living-style-guide>`_
    * `Natalie Downe: CSS Systems for writing maintainable CSS

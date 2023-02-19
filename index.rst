@@ -78,7 +78,7 @@ Ihr Ansprechpartner Veit Schiele
 Falls Sie Fragen haben oder ein Angebot wünschen, setzen Sie sich einfach mit
 mir in Verbindung.
 
-.. image:: https://www.veit-schiele.de/2166.jpg
+.. image:: 2166.jpg
    :alt: Team der Veit Schiele Communications
 
 .. toctree::
