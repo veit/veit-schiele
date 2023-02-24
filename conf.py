@@ -25,7 +25,7 @@ exclude_patterns = ["README.rst", "lib/*"]
 html_theme = "furo"
 
 # Change default HTML title
-html_title = "– Ihr Partner bei der Entwicklung von Software"
+html_title = "Veit Schiele"
 
 html_static_path = ["_static"]
 html_logo = "_static/images/logo/logo.png"
