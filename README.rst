@@ -16,14 +16,14 @@ Download and installation
    .. code-block:: console
 
     $ cd veit-schiele
-    $ $ python3 -m venv .
-    $ source bin/activate
-    $ python -m pip install --upgrade pip
-    $ python -m pip install -r requirements_dev.txt
+    $ python3 -m venv .venv
+    $ . .venv/bin/activate
+    $ python -m pip install -e ".[dev]"
     $ pre-commit install
 
 #. Create HTML
 
    .. code-block:: console
 
+    $ cd docs
     $ make html
