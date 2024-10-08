@@ -32,8 +32,8 @@ Die West Virginia University betreibt z.B. ein eigenes `Brand Center
 Visuelle Sprache
 ~~~~~~~~~~~~~~~~
 
-Richtlinien für die visuelle Sprache artikulieren die allgemeine Design-
-Richtung, Philosophie und Herangehensweise an spezifische Designprojekte
+Richtlinien für die visuelle Sprache artikulieren die allgemeine
+Design-Richtung, Philosophie und Herangehensweise an spezifische Designprojekte
 oder -produkte. Ein Beispiel hierfür ist `Google’s Material Design
 <https://www.google.com/design/spec/material-design/>`_
 
@@ -55,8 +55,8 @@ ist die `Voice & Tone <http://voiceandtone.com/>`_-Website von `MailChimp
    :class: image-right
 
 Ein weiteres Beispiel ist `Writing for the Web
-<http://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html>`_ des Web-
-Teams der Dalhousie University.
+<http://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html>`_ des
+Web-Teams der Dalhousie University.
 
 Musterbibliotheken
 ~~~~~~~~~~~~~~~~~~

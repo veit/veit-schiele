@@ -61,8 +61,8 @@ XMPP-Integration in Plone
  Integration von Inhalten verschiedener Web-Anwendungen auf einer Seite. Damit
  ist er z.B. ideal für Intranets geeignet, in denen hochspezialisierte
  Anwendungen mit einem einheitlichen Look & Feel integriert werden sollen.
- `Twitter Bootstrap <http://twitter.github.com/bootstrap/>`_ ist ein Frontend-
- Framework für effizient und einfach zu bedienende Web-Anwendungen.
+ `Twitter Bootstrap <http://twitter.github.com/bootstrap/>`_ ist ein
+ Frontend-Framework für effizient und einfach zu bedienende Web-Anwendungen.
 
 Datenschutzkonformes Web-Hosting
  Wir haben in unserem Hosting-Angebot in letzter Zeit einige Maßnahmen

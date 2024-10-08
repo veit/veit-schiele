@@ -32,7 +32,7 @@ Dabei gehen wir in folgenden sechs Schritten vor:
 
    Wir bieten zu jedem Projekt individuell auf Ihre Bedürfnisse zugeschnittene
    :doc:`../schulungen/index`, `../technische-dokumentation/index` und
-   `:doc:`../support/index` an.
+   :doc:`../support/index` an.
 
 Gewinnen Sie einen Überblick, wie auch Ihr Unternehmen noch effizienter arbeiten
 kann und lassen Sie sich von unseren :doc:`Kundenprojekten

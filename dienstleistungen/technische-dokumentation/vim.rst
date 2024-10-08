@@ -190,8 +190,8 @@ Dies sollte eine Liste der verfügbaren Bindings ausgeben.
 
 Nun sollte eine Befehlszeile im Eingabemodus von vi geöffnet werden. Wollen Sie
 diesen Modus verlassen und in den normalen vi-Modus zu wechseln, können Sie
-einfach die ``esc``-Taste drücken. Anschließend erhalten Sie die typischen vi-
-Bindings, also z.B.:
+einfach die ``esc``-Taste drücken. Anschließend erhalten Sie die typischen
+vi-Bindings, also :abbr:`z.B. (zum Beispiel)`:
 
 ``^``
     Zum Anfang der Zeile springen

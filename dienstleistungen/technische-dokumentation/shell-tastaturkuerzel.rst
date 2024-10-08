@@ -25,9 +25,8 @@ Verwenden der Historie
 ``!foo``
     führt den letzten Befehl aus, der mit ``foo`` begann.
 
-    Falls Sie sich unsicher sind, welches der letzte
-    Befehl mit ``foo`` war, können Sie sich mit``!foo:p``
-    zunächst diesen Befehl anzeigen lassen.
+    Falls Sie sich unsicher sind, welches der letzte Befehl mit ``foo`` war,
+    können Sie sich mit ``!foo:p`` zunächst diesen Befehl anzeigen lassen.
 
     Eine übliche Befehlsabfolge ist demnach:
 

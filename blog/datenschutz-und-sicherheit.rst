@@ -42,8 +42,8 @@ Zutrittskontrolle
     personenbezogene Daten verarbeitet oder genutzt werden, zu verwehren.
 
 Das Hosting erfolgt über die `Hostsharing eG <hostsharing.net>`_. Deren Server
-sind im Alboin-Kontor in einem eigenen Cage untergebracht, für den Vor-Ort-
-Service nutzt die  Hostsharing eG die Dienste der `Sinma GmbH
+sind im Alboin-Kontor in einem eigenen Cage untergebracht, für den
+Vor-Ort-Service nutzt die  Hostsharing eG die Dienste der `Sinma GmbH
 <http://www.sinma.de/>`_. Die Zutrittskontrolle zum Rechenzentrum erfolgt über
 die folgenden Authentifizierungs­systeme:
 

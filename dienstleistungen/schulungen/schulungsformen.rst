@@ -19,10 +19,11 @@ können.
 Sie erhalten bei jedem Seminar Schulungsunterlagen, die als Nachschlagewerk oder
 zum Nacharbeiten der Schulungsthemen verwendet werden kann.
 
-Sie können auch jedes der Themen als :ref:`Unternehmens-
-<unternehmensschulungen>` oder :ref:`Einzelschulung <einzelschulungen>` buchen.
-Darüberhinaus können wir auch für eine Vielzahl von speziellen Themen, für die
-keine Seminare angeboten werden, spezielle Schulungen durchführen.
+Sie können auch jedes der Themen als
+:ref:`Unternehmens- <unternehmensschulungen>` oder :ref:`Einzelschulung
+<einzelschulungen>` buchen. Darüberhinaus können wir auch für eine Vielzahl von
+speziellen Themen, für die keine Seminare angeboten werden, spezielle Schulungen
+durchführen.
 
 .. _unternehmensschulungen:
 
