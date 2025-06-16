@@ -91,8 +91,7 @@ mir in Verbindung.
     GitHub <https://github.com/veit>
     Jupyter-Tutorial <https://jupyter-tutorial.readthedocs.io/>
     PyViz-Tutorial <https://pyviz-tutorial.readthedocs.io/>
-    Plone-Entwicklerhandbuch <http://www.plone-entwicklerhandbuch.de/>
-    Plone-Benutzerhandbuch <http://www.plone-nutzerhandbuch.de/>
+    Python4DataScience <https://www.python4data.science/>
 
 .. Indices and tables
    ==================
