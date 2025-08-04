@@ -22,7 +22,12 @@ release = "1.0.0"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx_design", "sphinxext.opengraph", "sphinx_copybutton"]
+extensions = [
+    "sphinx_design",
+    "sphinxext.opengraph",
+    "sphinx_copybutton",
+    "sphinx_sitemap",
+]
 
 templates_path = ["_templates"]
 exclude_patterns = ["README.rst", "lib/*"]
@@ -46,3 +51,13 @@ html_favicon = "_static/images/logo/favicon.ico"
 html_theme_options = {
     "sidebar_hide_name": True,
 }
+
+# -- sitemap configuration ---------------------------------------------------
+
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "404.html",
+    "search.html",
+    "genindex.html",
+]
+sitemap_show_lastmod = True
