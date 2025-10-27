@@ -1,46 +1,47 @@
 [project]
 name = "veit-schiele"
 version = "24.1.0"
-authors = [
-  { name="Veit Schiele", email="veit@cusy.io" },
-]
 description = "Veit Schiele – Ihr Partner bei der Entwicklung von Software"
 readme = "README.rst"
+authors = [
+  { name = "Veit Schiele", email = "veit@cusy.io" },
+]
 requires-python = ">=3.9"
 classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: BSD License",
-    "Operating System :: OS Independent",
+  "License :: OSI Approved :: BSD License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
 ]
-dependencies = []
+dependencies = [  ]
 
-[project.optional-dependencies]
-docs = [
-    "sphinx-design",
-    "furo",
-    "sphinxext-opengraph",
-    "sphinx-copybutton",
-    "sphinx-sitemap",
+optional-dependencies.dev = [
+  "pre-commit",
+  "veit-schiele[docs]",
 ]
-
-dev = [
-    "veit-schiele[docs]",
-    "pre-commit",
+optional-dependencies.docs = [
+  "furo",
+  "sphinx-copybutton",
+  "sphinx-design",
+  "sphinx-sitemap",
+  "sphinxext-opengraph",
 ]
-
-[project.urls]
-"Homepage" = "https://github.com/veit/veit-schiele"
-"Bug Tracker" = "https://github.com/veit/veit-schiele/issues"
+urls."Bug Tracker" = "https://github.com/veit/veit-schiele/issues"
+urls."Homepage" = "https://github.com/veit/veit-schiele"
 
 [tool.black]
 line-length = 79
 
 [tool.isort]
-atomic=true
-force_grid_wrap=0
-include_trailing_comma=true
-lines_after_imports=2
-lines_between_types=1
-multi_line_output=3
-not_skip="__init__.py"
-use_parentheses=true
+atomic = true
+force_grid_wrap = 0
+include_trailing_comma = true
+lines_after_imports = 2
+lines_between_types = 1
+multi_line_output = 3
+not_skip = "__init__.py"
+use_parentheses = true
