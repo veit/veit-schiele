@@ -17,8 +17,7 @@ classifiers = [
   "Programming Language :: Python :: 3.13",
   "Programming Language :: Python :: 3.14",
 ]
-dependencies = [  ]
-
+dependencies = []
 optional-dependencies.dev = [
   "pre-commit",
   "veit-schiele[docs]",
@@ -31,7 +30,7 @@ optional-dependencies.docs = [
   "sphinxext-opengraph",
 ]
 urls."Bug Tracker" = "https://github.com/veit/veit-schiele/issues"
-urls."Homepage" = "https://github.com/veit/veit-schiele"
+urls.Homepage = "https://github.com/veit/veit-schiele"
 
 [tool.black]
 line-length = 79
