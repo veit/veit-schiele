@@ -18,19 +18,21 @@ classifiers = [
   "Programming Language :: Python :: 3.14",
 ]
 dependencies = []
-optional-dependencies.dev = [
+urls."Bug Tracker" = "https://github.com/veit/veit-schiele/issues"
+urls.Homepage = "https://github.com/veit/veit-schiele"
+
+[dependency-groups]
+dev = [
   "pre-commit",
-  "veit-schiele[docs]",
+  { include-group = "docs" },
 ]
-optional-dependencies.docs = [
+docs = [
   "furo",
   "sphinx-copybutton",
   "sphinx-design",
   "sphinx-sitemap",
   "sphinxext-opengraph",
 ]
-urls."Bug Tracker" = "https://github.com/veit/veit-schiele/issues"
-urls.Homepage = "https://github.com/veit/veit-schiele"
 
 [tool.black]
 line-length = 79
